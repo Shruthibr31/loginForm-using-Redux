@@ -23,7 +23,7 @@ const LogedIn = () => {
     return (
         <div className="login">
           <form className="login_form" onSubmit={(e) => handleSubmit(e)}>
-            <h1>Login Here</h1>
+            <h1>Login Here </h1>
             <input
              type="name" 
              placeholder="Name" 
